@@ -1,0 +1,12 @@
+.App-header {
+  margin: 30px auto;
+  text-align: center;
+  font-size: 40px;
+}
+.App-logo {
+  margin: 0 auto;
+  display: block;
+  max-width: 60px;
+  border: 1px solid white;
+  border-radius: 180px;
+}
