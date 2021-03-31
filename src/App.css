@@ -10,3 +10,7 @@
   border: 1px solid white;
   border-radius: 180px;
 }
+.App-footer {
+  text-align: center;
+  margin: 25px 0;
+}
