@@ -1,3 +1,7 @@
 .Dictionary {
-  color: black;
+  color: #0e484f;
+  text-align: center;
+}
+.Dictionary h3 {
+  color: #f6b73a;
 }
