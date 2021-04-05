@@ -4,6 +4,7 @@
 .Dictionary h3 {
   color: #f6b73a;
   text-transform: capitalize;
+  font-size: 32px;
 }
 .Dictionary section {
   background: #f8ece0;

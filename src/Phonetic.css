@@ -1,0 +1,7 @@
+.Phonetic a {
+  padding: 10px 20px;
+  text-decoration-line: none;
+}
+.Phonetic a:hover {
+  background: #f1cbb6;
+}
