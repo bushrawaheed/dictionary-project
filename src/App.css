@@ -1,21 +1,25 @@
 body {
   background-color: #ffffff;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-header {
   margin: 20px auto;
   text-align: center;
   font-size: 40px;
-  color: #122369;
+  color: #415c58;
 }
 .App-logo {
   margin: 0 auto;
   display: block;
   max-width: 50px;
-  border: 1px solid #1e2337;
+  border: 1px solid #415c58;
   border-radius: 180px;
 }
 .App-footer {
   text-align: center;
   margin: 15px 0;
-  color: #1e2337;
+  color: #415c58;
 }
