@@ -3,4 +3,26 @@
 }
 .Dictionary h3 {
   color: #f6b73a;
+  text-transform: capitalize;
+}
+.Dictionary section {
+  background: #f8ece0;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgb(0 0 0 /10%);
+  margin: 20px 0;
+}
+.Dictionary input {
+  color: #0e484f;
+  font-family: serif;
+  width: 95%;
+  padding: 10px 15px;
+  border: 1px solid #f8ece0;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+.Dictionary .hint {
+  margin-top: 6px;
+  font-size: 15px;
 }

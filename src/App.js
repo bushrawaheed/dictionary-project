@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
         Dictionary</header>
         <main>
-          <Dictionary/>
+          <Dictionary defaultKeyword="dictionary"/>
         </main>
         <footer className="App-footer">coded by <a href="https://github.com/bushrawaheed/dictionary-project" target="_blank" rel="noreferrer">Bushra Waheed</a></footer>
     </div>
